@@ -1,0 +1,19 @@
+---
+title: 'Deep Learning Framework: keras'
+author: "Tiara Dwiputri"
+date: "4/1/2020"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: 
+        collapsed: false
+    number_sections: true
+    theme: journal
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(keras)
+```
